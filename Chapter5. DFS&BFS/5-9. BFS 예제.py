@@ -42,7 +42,7 @@ graph = [
 visited = [False]*9
 
 # 정의된 BFS 함수 호출
-bfs(graph, 1, visited)
+bfs(graph, 1, visited) # 1 2 3 8 7 4 5 6
 
 # DFS 스택 재귀 함수 이용
 # BFS 큐 큐 자료구조 이용
